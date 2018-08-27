@@ -1,0 +1,11 @@
+Git is OpenSource.
+Git is distributed.
+Git is Secure as we can secure access to our source code.
+Multi developer can work on single project effiviently by using GIT.
+GIT tool maintain all versions i.e. you have ability to roll back to or switch back to any versions at any time. thats why we Sourevce code management tools called as Version control system.
+(If any versions not working propely or founds any bug in production then we can roll back to the previous versions.)
+SCM tools records modification to files with 
+      1. Who Modfied
+      2. Why it is modified(via commit messages)
+      3. When it is modified.
+GIT is fast.
