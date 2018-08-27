@@ -1,0 +1,16 @@
+$ git remote -v
+origin  https://github.com/sawansharma113/saw.git (fetch)
+origin  https://github.com/sawansharma113/saw.git (push)
+
+
+
+$ git remote add sawan https://github.com/sawansharma113/Learning_Devops.git
+
+
+$ git remote -v
+origin  https://github.com/sawansharma113/saw.git (fetch)
+origin  https://github.com/sawansharma113/saw.git (push)
+sawan   https://github.com/sawansharma113/Learning_Devops.git (fetch)
+sawan   https://github.com/sawansharma113/Learning_Devops.git (push)
+
+
