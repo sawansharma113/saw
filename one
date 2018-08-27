@@ -9,3 +9,12 @@ SCM tools records modification to files with
       2. Why it is modified(via commit messages)
       3. When it is modified.
 GIT is fast.
+
+
+Creating a branch:
+
+git branch task-1
+
+Viewing branches:
+
+git branch
