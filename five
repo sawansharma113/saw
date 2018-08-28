@@ -1,2 +1,7 @@
 Starting fetch .
 git fetch
+I am creating new branch. then checkout to that branch and then making some demo changes.
+Then will merge my branch to master branch. HOW??
+
+Will swich to master branch then merge my branch from there.
+
